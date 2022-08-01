@@ -2,9 +2,9 @@
 
 Repository for the ODSA link layer specifications
 
-##### Directory Structure
+#### Directory Structure
 
-* [Interface Profiles](Interface Profiles) - contains latest and archived
+* [Interface Profiles](Interface\ Profiles) - contains latest and archived
   specifications for various interface profiles
 
 * [Specifications](Specifications) - contains the latest and archived versions
